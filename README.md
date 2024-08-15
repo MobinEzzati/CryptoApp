@@ -12,3 +12,5 @@ CryptoExchangeApp is an iOS application that allows users to manage their crypto
 - **Haptic Feedback**: A custom Haptic Manager is integrated to provide tactile feedback, enhancing the user experience.
 - **Future Development**: Ongoing work includes building a custom GPT-powered AI assistant to provide insights and recommendations within the app.
 
+## Technologies Used
+- **Swift
