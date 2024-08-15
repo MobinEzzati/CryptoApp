@@ -31,6 +31,3 @@ CryptoExchangeApp is an iOS application that allows users to manage their crypto
 3. **Real-Time Updates**: The app fetches real-time data to ensure your portfolio is always up-to-date with the latest market information.
 
 4. **Experience Enhanced UX**: Enjoy smooth interactions with haptic feedback and custom UI elements.
-
-
-2-Manage Portfolio: Add new cryptocurrencies to your portfolio, update existing ones, or remove them as needed.
