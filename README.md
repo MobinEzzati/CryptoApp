@@ -13,4 +13,10 @@ CryptoExchangeApp is an iOS application that allows users to manage their crypto
 - **Future Development**: Ongoing work includes building a custom GPT-powered AI assistant to provide insights and recommendations within the app.
 
 ## Technologies Used
-- **Swift
+- **Swift**
+- **MVVM Architecture**
+- **CoreData**
+- **Combine**
+- **URLSession**
+- **Custom Extensions**
+- **Haptic Feedback**
